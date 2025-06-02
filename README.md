@@ -1,7 +1,8 @@
 Iris Flower Classification 
 using Data Analysis and Machine Learning 
 
-Abstract: 
+Abstract:
+
 This project focuses on the classification of Iris flowers into three distinct species — Setosa, 
 Versicolor, and Virginica — based on measurable features such as sepal length, sepal width, 
 petal length, and petal width. Utilizing a CSV dataset, we perform comprehensive data analysis 
@@ -12,7 +13,8 @@ metrics, confusion matrices, and classification reports, the model's performance
 This project demonstrates a complete machine learning pipeline, providing insight into data 
 preprocessing, model selection, and predictive analytics in a real-world classification scenario.
 
-Introduction: 
+Introduction:
+
 The Iris flower dataset is one of the most well-known and widely used datasets in the field of 
 machine learning and statistics. Introduced by the British biologist and statistician Ronald A. 
 Fisher in 1936, this dataset has become a standard for testing classification algorithms. 
@@ -36,7 +38,8 @@ showcases a full data science pipeline from data ingestion and preprocessing to 
 and evaluation, making it an excellent practical example for beginners in data science and 
 machine learning.
 
-Objective: 
+Objective:
+
 The primary objective of this project is to develop a machine learning model capable of 
 accurately classifying Iris flowers into one of three species — Setosa, Versicolor, or Virginica 
 — based on their morphological measurements. These measurements include: 
@@ -58,7 +61,8 @@ This project aims to showcase the end-to-end application of data science and mac
 techniques on a real-world dataset, providing a solid foundation for further exploration of 
 classification problems. 
 
-Methodology: 
+Methodology:
+
 The methodology followed in this project involves several key steps that reflect a complete 
 machine learning workflow. Each step is essential to ensure the accuracy and reliability of the 
 classification model. The process is described as follows: 
@@ -101,7 +105,8 @@ The trained models were evaluated using:
  Confusion Matrix: Visual representation of prediction vs. actual results. 
 Based on these metrics, the best-performing model was identified.
 
-Conclusion: 
+Conclusion:
+
 This project successfully demonstrated the application of a complete machine learning 
 workflow to a classical classification problem — identifying Iris flower species based on their 
 morphological features. Through systematic steps including data loading, exploratory data 
